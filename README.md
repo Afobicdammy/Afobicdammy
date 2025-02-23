@@ -17,17 +17,17 @@ I am passionate about **Harnessing the power of data**, **Learning new tools**, 
 ---
 
 ## 💼 Work Experience
-### **Data Analyst III | CoventBridge Group** *(June 2023 – Present)*
+### **Data Analyst III | CoventBridge Group** 
 - Mentoring junior analysts and ensuring high-quality analysis.
 - Visualizing **Medicare & Medicaid** claims data to detect fraud, waste, and abuse.
 - Supporting **law enforcement** by delivering cleaned and analyzed data for investigations.
 
-### **Data Analyst II | Intermed IPA CTO** *(August 2021 – June 2023)*
+### **Data Analyst II | Intermed IPA CTO** 
 - Built **interactive dashboards** to analyze medical specialist claims and optimize referrals.
 - Created and maintained **daily encounter databases** to track patient utilization.
 - Trained medical providers on data platforms used by CRISP (Maryland's Health Information Exchange).
 
-### **Fraud/Dispute Analyst | Genpact** *(December 2020 – August 2021)*
+### **Fraud/Dispute Analyst | Genpact** 
 - Investigated fraud cases, chargebacks, and financial transactions.
 - Analyzed customer data to detect **excessive risk and fraudulent activities**.
 
