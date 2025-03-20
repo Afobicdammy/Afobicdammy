@@ -40,4 +40,4 @@ I am passionate about **Harnessing the power of data**, **Learning new tools**, 
 
 ---
 
-I'm always excited to collaborate on **data-driven projects**, **open-source contributions**, and **mentorship opportunities**. Feel free to reach out!
+I'm always eager to learn, and excited to collaborate on **data-driven projects**, **open-source contributions**, and **mentorship opportunities**. Feel free to reach out!
