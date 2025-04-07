@@ -2,13 +2,13 @@
 
 ## 💡 About Me
 - I have over 5 years experience in data analytics 📊.
-- My domain spans Fraud, Waste and Abuse in Healthcare and Finance Industries 💰🩺.
+- My domain spans Fraud, Waste and Abuse in Healthcare and Finance Industries 🏦🏥.
 - I love to build things, from home DIY projects to chicken cages to insightful dashboards to data pipelines 👷‍♂️👨‍💻🛠️.
 - Educational background in Chemical Engineering 🎓
 - life long learner 🚀
 - I play guitar 🎸
 - Soccer is life 💙
-- I am passionate about **Harnessing the power of data**, **Learning new tools**, and **leveraging data-driven solutions** to strategic decisions and optimize business operations 🧠
+- I am passionate about **Harnessing the power of data**, **Learning new tools**, and **leveraging data-driven solutions** to strategic decisions and optimize business operations 💡🧠
 
 ---
 
