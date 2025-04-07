@@ -17,7 +17,11 @@
 - **BI & Visualization:** Power BI, Tableau, Excel, SAS, IBM i2  
 - **Databases:** PostgreSQL, MySQL, Oracle, MongoDB  
 - **Big Data & Cloud:** BigQuery, Spark, Snowflake  
-- **Data Modeling:** Dimensional Modeling, Facts, Slowly Changing Dimensions (SCDs)  
+- **Data Modeling:** Dimensional Modeling, Facts, Slowly Changing Dimensions (SCDs)
+
+--- 
+**Repo Navigation**
+
 
 ---
 
