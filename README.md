@@ -24,7 +24,7 @@
 ## 🎓 Education & Certifications
 - **Data Engineering** – IBM, Altschool Data School
 - **Data Analytics & Data Science Fellow** – Utiva Data School  
-- **B.Sc. Chemical Engineering** – University of Maryland, Baltimore County (UMBC)  
+- **B.Sc. Chemical Engineering** – University of Maryland, Baltimore County **(UMBC)**  
 
 ---
 
