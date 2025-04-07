@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Damilola Afolabi
+# Hello! 👋 I'm Damilola Afolabi. You are welcome to my personal projects.
 
 ## 💡 About Me
 - I have over 5 years experience in data analytics.
-- my domain spans fraud waste and abuse in Healthcare and Finance.
+- My domain spans Fraud, Waste and abuse in Healthcare and Finance Industries.
 - I love to build things, from chicken cages to data pipelines.
 - My background is in Chemical Engineering.
 - life long learner.
