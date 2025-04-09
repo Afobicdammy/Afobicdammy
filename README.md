@@ -1,9 +1,9 @@
 # Hello! 👋 I'm Damilola Afolabi. You are welcome to my personal projects.
 
 ## 💡 About Me
-- I have over 5 years experience in data analytics 📊.
-- My domain spans Fraud, Waste and Abuse in Healthcare and Finance Industries 🏦🏥.
-- I love to build things, from home DIY projects to chicken cages to insightful dashboards to data pipelines 👷‍♂️👨‍💻🛠️.
+- I have over 5 years experience in data analytics 📊
+- My domain spans Fraud, Waste and Abuse in Healthcare and Finance Industries 🏦🏥
+- I love to build things, from home DIY projects to chicken cages to insightful dashboards to data pipelines 👷‍♂️👨‍💻🛠️
 - Educational background in Chemical Engineering 🎓
 - life long learner 🚀
 - I play guitar 🎸
@@ -29,10 +29,6 @@
 - **Databases:** PostgreSQL, MySQL, Oracle, MongoDB  
 - **Big Data & Cloud:** BigQuery, Spark, Snowflake  
 - **Data Modeling:** Dimensional Modeling, Facts, Slowly Changing Dimensions (SCDs)
-
---- 
-**Repo Navigation**
-
 
 ---
 
