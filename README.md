@@ -3,18 +3,17 @@
 ## 💡 About Me
 - I have over 5 years experience in data analytics 📊
 - My domain spans Fraud, Waste and Abuse in Healthcare and Finance Industries 🏦🏥
-- I love to build things, from home DIY projects to chicken cages to insightful dashboards to data pipelines 👷‍♂️👨‍💻🛠️
+- I love building things, from home DIY projects to Chicken cages to insightful dashboards to data pipelines 👷‍♂️👨‍💻🛠️
 - Educational background in Chemical Engineering 🎓
 - life long learner 🚀
 - I play guitar 🎸
-- Soccer is life 💙
+- I play soccer 💙
 - I am passionate about **Harnessing the power of data**, **Learning new tools**, and **leveraging data-driven solutions** to strategic decisions and optimize business operations 💡🧠
 
 ---
 
 ## 🔧 Technical Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![SAS](https://img.shields.io/badge/SAS-Software-blue?logo=sas&logoColor=white)
 [![SAS](https://img.shields.io/badge/SAS-0076A8?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
