@@ -23,14 +23,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black)
 
-
-
-- **Programming Languages:** Python, SQL, NoSQL  
-- **BI & Visualization:** Power BI, Tableau, Excel, SAS, IBM i2  
-- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB  
-- **Big Data & Cloud:** BigQuery, Spark, Snowflake  
-- **Data Modeling:** Dimensional Modeling, Facts, Slowly Changing Dimensions (SCDs)
-
 ---
 
 ## 🎓 Education & Certifications
