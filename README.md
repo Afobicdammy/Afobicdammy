@@ -27,7 +27,7 @@
 
 ## 🎓 Education & Certifications
 - **Data Engineering** – IBM, Altschool Africa  [
-](https://github.com/Afobicdammy/Certificates/blob/main/AltSchool%20Africa%20Certificate%20-%20Damilola.pdf)  - **Altschool data engineering Certificate**
+(https://github.com/Afobicdammy/Certificates/blob/main/AltSchool%20Africa%20Certificate%20-%20Damilola.pdf)  - **Altschool data engineering Certificate**
 - **Data Analytics & Data Science Fellow** – Utiva Data School  
 - **B.Sc. Chemical Engineering** – University of Maryland, Baltimore County **(UMBC)**  
 
