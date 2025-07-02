@@ -3,9 +3,9 @@
 ## 💡 About Me
 - I have over 5 years experience in data analytics 📊
 - My domain spans Fraud, Waste and Abuse in Healthcare and Finance Industries 🏦🏥
-- I love building things, from home DIY projects to Chicken cages to insightful dashboards to data pipelines 👷‍♂️👨‍💻🛠️
-- Educational background in Chemical Engineering 🎓
-- life long learner 🚀
+- I love building things - from home DIY projects to Chicken cages, insightful dashboards, and data pipelines 👷‍♂️👨‍💻🛠️
+- I have an educational background in Chemical Engineering 🎓
+- I am a life long learner 🚀
 - I play guitar 🎸
 - I play soccer 💙
 - I am passionate about **Harnessing the power of data**, **Learning new tools**, and **leveraging data-driven solutions** to strategic decisions and optimize business operations 💡🧠
@@ -26,7 +26,8 @@
 ---
 
 ## 🎓 Education & Certifications
-- **Data Engineering** – IBM, Altschool Data School
+- **Data Engineering** – IBM, Altschool Africa
+  - **Altschool data engineering Certificate**
 - **Data Analytics & Data Science Fellow** – Utiva Data School  
 - **B.Sc. Chemical Engineering** – University of Maryland, Baltimore County **(UMBC)**  
 
